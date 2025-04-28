@@ -26,8 +26,6 @@ I'm always open to collaborating on interesting projects or discussing web devel
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cynexium&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cynexium&layout=compact&theme=radical)
 
 ---
