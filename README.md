@@ -8,7 +8,8 @@ I'm a passionate **Web Developer** with a love for building clean, responsive, a
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, MySQL
 - **Tools**: Git, GitHub, VS Code, Postman, Figma
-- **Other**: REST APIs, Responsive Design, Web Performance Optimization
+- **Web3**: Solidity (basics), Smart Contracts, Ethereum, Solana, NFT Standards (ERC-721, Metaplex)
+- **Other**: REST APIs, Responsive Design,  Blockchain Integration (basic)
 
 ## 🌱 What I'm Currently Learning
 
